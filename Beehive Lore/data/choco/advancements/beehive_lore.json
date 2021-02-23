@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:bee_nest"
+		},
+		"title": "Beehive Lore",
+		"description": "Adds lore to beehives showing how many bees and honey is inside.",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "choco:mechanics",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

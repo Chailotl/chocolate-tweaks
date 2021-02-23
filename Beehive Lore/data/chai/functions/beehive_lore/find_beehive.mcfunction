@@ -1,0 +1,2 @@
+execute as @e[type=minecraft:item,tag=!lore_added,nbt={Item:{id:"minecraft:bee_nest"}}] run function chai:beehive_lore/set_lore
+execute as @e[type=minecraft:item,tag=!lore_added,nbt={Item:{id:"minecraft:beehive"}}] run function chai:beehive_lore/set_lore
