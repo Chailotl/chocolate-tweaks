@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"s",
+		"p"
+	],
+	"key": {
+		"s": {
+			"tag": "chai:sticky"
+		},
+		"p": {
+			"item": "minecraft:piston"
+		}
+	},
+	"result": {
+		"item": "minecraft:sticky_piston"
+	},
+	"group": "sticky_piston"
+}

@@ -1,0 +1,26 @@
+{
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_honeycomb": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:honeycomb"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_honeycomb"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"minecraft:lead",
+			"minecraft:sticky_piston"
+		]
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ss ",
+		"sS ",
+		"  s"
+	],
+	"key": {
+		"s": {
+			"item": "minecraft:string"
+		},
+		"S": {
+			"tag": "chai:sticky"
+		}
+	},
+	"result": {
+		"item": "minecraft:lead",
+		"count": 2
+	},
+	"group": "lead"
+}
