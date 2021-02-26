@@ -9,7 +9,7 @@
 			"color": "gold"
 		},
 		"description": {
-			"text": "https://vanillachai.github.io",
+			"text": "vanillachai.github.io",
             "bold": false
 		},
 		"background": "minecraft:textures/block/dark_oak_trapdoor.png",
