@@ -1,0 +1,25 @@
+{
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_charcoal": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"tag": "minecraft:coals"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_charcoal"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"chai:charcoal_black"
+		]
+	}
+}
