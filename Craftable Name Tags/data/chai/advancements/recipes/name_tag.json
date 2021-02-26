@@ -1,0 +1,25 @@
+{
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_paper": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:paper"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_paper"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"chai:name_tag"
+		]
+	}
+}
