@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:enchanted_golden_apple"
+		},
+		"title": "Craftable Notch Apples",
+		"description": "Enchanted golden apples can be crafted with 8 blocks of gold and an apple.",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "choco:crafting_tweaks",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
