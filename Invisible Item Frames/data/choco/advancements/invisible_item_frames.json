@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:item_frame"
+		},
+		"title": "Invisible Item Frames",
+		"description": "Put a potion of invisibility inside an item frame to turn it invisible.",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "choco:mechanics",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
