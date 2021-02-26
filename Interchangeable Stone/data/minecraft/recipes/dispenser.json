@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ccc",
+		"cbc",
+		"crc"
+	],
+	"key": {
+		"c": {
+			"tag": "chai:stone"
+		},
+		"r": {
+			"item": "minecraft:redstone"
+		},
+		"b": {
+			"item": "minecraft:bow"
+		}
+	},
+	"result": {
+		"item": "minecraft:dispenser"
+	}
+}

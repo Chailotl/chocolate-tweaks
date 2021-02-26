@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" b ",
+		"ccc"
+	],
+	"key": {
+		"c": {
+			"tag": "chai:stone"
+		},
+		"b": {
+			"item": "minecraft:blaze_rod"
+		}
+	},
+	"result": {
+		"item": "minecraft:brewing_stand"
+	}
+}

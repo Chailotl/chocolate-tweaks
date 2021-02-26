@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"www",
+		"cic",
+		"crc"
+	],
+	"key": {
+		"c": {
+			"tag": "chai:stone"
+		},
+		"r": {
+			"item": "minecraft:redstone"
+		},
+		"i": {
+			"item": "minecraft:iron_ingot"
+		},
+		"w": {
+			"tag": "minecraft:planks"
+		}
+	},
+	"result": {
+		"item": "minecraft:piston"
+	}
+}

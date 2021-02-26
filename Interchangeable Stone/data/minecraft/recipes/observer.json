@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ccc",
+		"rrq",
+		"ccc"
+	],
+	"key": {
+		"c": {
+			"tag": "chai:stone"
+		},
+		"r": {
+			"item": "minecraft:redstone"
+		},
+		"q": {
+			"item": "minecraft:quartz"
+		}
+	},
+	"result": {
+		"item": "minecraft:observer"
+	}
+}

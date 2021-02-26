@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"s",
+		"c"
+	],
+	"key": {
+		"c": {
+			"tag": "chai:stone"
+		},
+		"s": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "minecraft:lever"
+	}
+}
