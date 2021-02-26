@@ -1,0 +1,18 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:oak_button"
+		},
+		"title": "Minor Tweaks",
+		"description": "",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"frame": "goal"
+	},
+	"parent": "choco:crafting_tweaks",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

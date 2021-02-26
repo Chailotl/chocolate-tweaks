@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:dead_bush"
+		},
+		"title": "Craftable Dead Bushes",
+		"description": "Dead bushes can be crafted with 3 sticks.",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "choco:minor_tweaks",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
