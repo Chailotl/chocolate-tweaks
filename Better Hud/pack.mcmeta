@@ -1,0 +1,6 @@
+{
+	"pack": {
+		"pack_format": 6,
+		"description": "Show coordinates, time, and light level above your hud"
+	}
+}

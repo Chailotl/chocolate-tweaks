@@ -1,0 +1,6 @@
+{
+	"values": [
+		"chai:hud/init",
+		"light:init"
+	]
+}
