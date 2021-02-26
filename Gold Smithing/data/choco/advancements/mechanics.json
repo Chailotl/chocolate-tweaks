@@ -1,0 +1,18 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:redstone"
+		},
+		"title": "Mechanics",
+		"description": "",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"frame": "goal"
+	},
+	"parent": "choco:root",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
