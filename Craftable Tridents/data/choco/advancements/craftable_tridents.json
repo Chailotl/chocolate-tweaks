@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:trident"
+		},
+		"title": "Craftable Tridents",
+		"description": "Tridents can be crafted using a Heart of the Sea, 2 prismarine shards, and 2 diamonds.",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "choco:crafting_tweaks",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

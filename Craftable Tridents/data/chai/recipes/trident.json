@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"php",
+		" d ",
+		" d "
+	],
+	"key": {
+		"h": {
+			"item": "minecraft:heart_of_the_sea"
+		},
+		"p": {
+			"item": "minecraft:prismarine_shard"
+		},
+		"d": {
+			"item": "minecraft:diamond"
+		}
+	},
+	"result": {
+		"item": "minecraft:trident"
+	}
+}
