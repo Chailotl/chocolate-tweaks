@@ -1,0 +1,25 @@
+{
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_blackstone": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:blackstone"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_blackstone"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"chai:gilded_blackstone"
+		]
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:gilded_blackstone"
+		},
+		"title": "Craftable Cobwebs",
+		"description": "Gilded blackstone can be crafted with 5 gold nuggets and 1 blackstone.",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "choco:minor_tweaks",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
