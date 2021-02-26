@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:barrel"
+		},
+		"title": "Cheaper Barrel Crafting",
+		"description": "Barrels use the Bedrock edition crafting recipe.",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "choco:crafting_tweaks",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
