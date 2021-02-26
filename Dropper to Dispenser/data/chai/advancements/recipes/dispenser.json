@@ -1,0 +1,26 @@
+{
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_dropper": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:dropper"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_dropper"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"chai:dispenser",
+			"chai:dispenser_bow"
+		]
+	}
+}
