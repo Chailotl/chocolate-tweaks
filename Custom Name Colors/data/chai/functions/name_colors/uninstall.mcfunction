@@ -1,0 +1,16 @@
+team remove color.darkRed
+team remove color.red
+team remove color.gold
+team remove color.yellow
+team remove color.darkGreen
+team remove color.green
+team remove color.darkAqua
+team remove color.aqua
+team remove color.darkBlue
+team remove color.blue
+team remove color.darkPurple
+team remove color.lightPurple
+team remove color.black
+team remove color.darkGray
+team remove color.gray
+team remove color.white

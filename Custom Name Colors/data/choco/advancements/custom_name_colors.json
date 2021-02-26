@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:name_tag"
+		},
+		"title": "Custom Name Colors",
+		"description": "Change the color of your name.\n\nType in §6/trigger color§a to use.",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "choco:mechanics",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
