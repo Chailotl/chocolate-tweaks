@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:bell"
+		},
+		"title": "Craftable Bells",
+		"description": "Bells can be crafted with 3 wooden planks, 3 gold ingots, and a gold nugget.",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "choco:minor_tweaks",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

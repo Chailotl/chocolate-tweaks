@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"www",
+		" g ",
+		"gng"
+	],
+	"key": {
+		"w": {
+			"tag": "minecraft:planks"
+		},
+		"g": {
+			"item": "minecraft:gold_ingot"
+		},
+		"n": {
+			"item": "minecraft:gold_nugget"
+		}
+	},
+	"result": {
+		"item": "minecraft:bell"
+	}
+}
