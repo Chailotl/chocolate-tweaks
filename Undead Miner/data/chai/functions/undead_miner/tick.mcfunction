@@ -1,0 +1,1 @@
+execute as @e[type=zombie,tag=!no_convert2] at @s run function chai:undead_miner/check
