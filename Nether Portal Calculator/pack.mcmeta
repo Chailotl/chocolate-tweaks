@@ -1,0 +1,6 @@
+{
+	"pack": {
+		"pack_format": 6,
+		"description": "Calculate where nether portals should be built to synchronize them"
+	}
+}

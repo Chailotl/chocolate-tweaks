@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:obsidian"
+		},
+		"title": "Nether Portal Calculator",
+		"description": "Calculate where nether portals should be built to synchronize them.\n\nType in §6/trigger calc_portal§a to use.",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "choco:mechanics",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
