@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:gravel"
+		},
+		"title": "Stonecrusher",
+		"description": "Use the stonecutter to crush cobblestone into gravel and sand.",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "choco:crafting_tweaks",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
