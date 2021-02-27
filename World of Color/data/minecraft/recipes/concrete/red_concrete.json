@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"www",
+		"wdw",
+		"www"
+	],
+	"key": {
+		"w": {
+			"tag": "chai:concrete"
+		},
+		"d": {
+			"item": "minecraft:red_dye"
+		}
+	},
+	"result": {
+		"item": "minecraft:red_concrete",
+		"count": 8
+	},
+	"group": "concrete"
+}

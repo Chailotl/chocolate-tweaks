@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"www",
+		"wdw",
+		"www"
+	],
+	"key": {
+		"w": {
+			"tag": "chai:glazed_terracotta"
+		},
+		"d": {
+			"item": "minecraft:brown_dye"
+		}
+	},
+	"result": {
+		"item": "minecraft:brown_glazed_terracotta",
+		"count": 8
+	},
+	"group": "glazed_terracotta"
+}

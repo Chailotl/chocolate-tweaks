@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"www",
+		"wdw",
+		"www"
+	],
+	"key": {
+		"w": {
+			"tag": "chai:concrete_powder"
+		},
+		"d": {
+			"item": "minecraft:purple_dye"
+		}
+	},
+	"result": {
+		"item": "minecraft:purple_concrete_powder",
+		"count": 8
+	},
+	"group": "concrete_powder_color"
+}
