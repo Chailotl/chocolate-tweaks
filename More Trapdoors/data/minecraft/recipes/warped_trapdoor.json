@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"www",
+		"www"
+	],
+	"key": {
+		"w": {
+			"item": "minecraft:warped_planks"
+		}
+	},
+	"result": {
+		"item": "minecraft:warped_trapdoor",
+		"count": 12
+	},
+	"group": "trapdoor"
+}

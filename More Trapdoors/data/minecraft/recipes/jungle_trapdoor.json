@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"www",
+		"www"
+	],
+	"key": {
+		"w": {
+			"item": "minecraft:jungle_planks"
+		}
+	},
+	"result": {
+		"item": "minecraft:jungle_trapdoor",
+		"count": 12
+	},
+	"group": "trapdoor"
+}
