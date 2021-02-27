@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:honeycomb_block"
+		},
+		"title": "Unpackable Honeycomb Blocks",
+		"description": "Honeycomb blocks can be crafted back into honeycombs.",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "choco:minor_tweaks",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

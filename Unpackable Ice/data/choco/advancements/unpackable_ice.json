@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:blue_ice"
+		},
+		"title": "Unpackable Ice",
+		"description": "Blue ice and packed ice can be crafted back into packed ice and ice, respectively.",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "choco:minor_tweaks",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

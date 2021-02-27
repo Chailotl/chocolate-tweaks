@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:clay"
+		},
+		"title": "Unpackable Clay",
+		"description": "Clay can be crafted back into clay balls.",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "choco:minor_tweaks",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

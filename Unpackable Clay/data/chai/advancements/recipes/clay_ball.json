@@ -1,0 +1,25 @@
+{
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_clay": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:clay"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_clay"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"chai:clay_ball"
+		]
+	}
+}
