@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:player_head"
+		},
+		"title": "Player Head Drops",
+		"description": "Players drop their heads when killed by another player.",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "choco:mechanics",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
