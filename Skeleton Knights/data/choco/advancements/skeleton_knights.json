@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:wooden_sword"
+		},
+		"title": "Skeleton Knights",
+		"description": "Skeletons sometimes spawn with wooden and stone swords.",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "choco:custom_spawns",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

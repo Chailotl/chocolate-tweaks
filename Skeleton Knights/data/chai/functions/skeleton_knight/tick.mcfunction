@@ -1,0 +1,1 @@
+execute as @e[type=skeleton,tag=!no_convert] at @s run function chai:skeleton_knight/convert
