@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:red_dye"
+		},
+		"title": "World of Color",
+		"description": "Freely recolor dyeable blocks and beds regardless of their current color.",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "choco:crafting_tweaks",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

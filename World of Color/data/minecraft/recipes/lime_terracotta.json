@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"www",
+		"wdw",
+		"www"
+	],
+	"key": {
+		"w": {
+			"tag": "chai:terracotta"
+		},
+		"d": {
+			"item": "minecraft:lime_dye"
+		}
+	},
+	"result": {
+		"item": "minecraft:lime_terracotta",
+		"count": 8
+	},
+	"group": "terracotta"
+}

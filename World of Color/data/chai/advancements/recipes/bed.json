@@ -1,0 +1,40 @@
+{
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_bed": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"tag": "chai:bed"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_bed"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"minecraft:white_bed_from_white_bed",
+			"minecraft:light_gray_bed_from_white_bed",
+			"minecraft:gray_bed_from_white_bed",
+			"minecraft:black_bed_from_white_bed",
+			"minecraft:purple_bed_from_white_bed",
+			"minecraft:magenta_bed_from_white_bed",
+			"minecraft:pink_bed_from_white_bed",
+			"minecraft:red_bed_from_white_bed",
+			"minecraft:orange_bed_from_white_bed",
+			"minecraft:yellow_bed_from_white_bed",
+			"minecraft:light_blue_bed_from_white_bed",
+			"minecraft:blue_bed_from_white_bed",
+			"minecraft:cyan_bed_from_white_bed",
+			"minecraft:lime_bed_from_white_bed",
+			"minecraft:green_bed_from_white_bed",
+			"minecraft:brown_bed_from_white_bed"
+		]
+	}
+}

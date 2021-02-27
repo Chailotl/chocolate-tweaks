@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"www",
+		"w w",
+		"www"
+	],
+	"key": {
+		"w": {
+			"tag": "chai:stained_glass_pane"
+		}
+	},
+	"result": {
+		"item": "minecraft:glass_pane",
+		"count": 8
+	},
+	"group": "stained_glass_pane_color"
+}

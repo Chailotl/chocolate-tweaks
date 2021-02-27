@@ -1,0 +1,40 @@
+{
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_concrete": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"tag": "chai:concrete"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_concrete"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"minecraft:concrete/white_concrete",
+			"minecraft:concrete/light_gray_concrete",
+			"minecraft:concrete/gray_concrete",
+			"minecraft:concrete/black_concrete",
+			"minecraft:concrete/purple_concrete",
+			"minecraft:concrete/magenta_concrete",
+			"minecraft:concrete/pink_concrete",
+			"minecraft:concrete/red_concrete",
+			"minecraft:concrete/orange_concrete",
+			"minecraft:concrete/yellow_concrete",
+			"minecraft:concrete/light_blue_concrete",
+			"minecraft:concrete/blue_concrete",
+			"minecraft:concrete/cyan_concrete",
+			"minecraft:concrete/lime_concrete",
+			"minecraft:concrete/green_concrete",
+			"minecraft:concrete/brown_concrete"
+		]
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"www",
+		"wdw",
+		"www"
+	],
+	"key": {
+		"w": {
+			"tag": "chai:stained_glass_pane"
+		},
+		"d": {
+			"item": "minecraft:gray_dye"
+		}
+	},
+	"result": {
+		"item": "minecraft:gray_stained_glass_pane",
+		"count": 8
+	},
+	"group": "stained_glass_pane_color"
+}

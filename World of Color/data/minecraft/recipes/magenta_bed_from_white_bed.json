@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients": [
+		{
+			"tag": "chai:bed"
+		},
+		{
+			"item": "minecraft:magenta_dye"
+		}
+	],
+	"result": {
+		"item": "minecraft:magenta_bed"
+	},
+	"group": "bed_color"
+}

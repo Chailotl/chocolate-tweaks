@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"www",
+		"wdw",
+		"www"
+	],
+	"key": {
+		"w": {
+			"tag": "chai:stained_glass"
+		},
+		"d": {
+			"item": "minecraft:orange_dye"
+		}
+	},
+	"result": {
+		"item": "minecraft:orange_stained_glass",
+		"count": 8
+	},
+	"group": "stained_glass_color"
+}
