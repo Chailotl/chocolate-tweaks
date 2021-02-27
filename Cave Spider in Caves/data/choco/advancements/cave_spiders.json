@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:cave_spider_spawn_egg"
+		},
+		"title": "Cave Spiders in Caves",
+		"description": "Cave Spiders uncommonly spawn in caves.",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "choco:custom_spawns",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
