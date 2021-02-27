@@ -1,0 +1,11 @@
+Mobs can no longer pick up items. The list of mobs includes:
+- Zombies
+- Drowned
+- Husks
+- Zombie Villagers
+- Skeletons
+- Strays
+- Wither Skeletons
+- Piglins
+- Piglin Brutes
+- Zombified Piglins
