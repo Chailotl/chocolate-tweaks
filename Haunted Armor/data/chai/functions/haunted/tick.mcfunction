@@ -1,0 +1,1 @@
+execute as @e[type=zombie,tag=!no_convert] at @s run function chai:haunted/check

@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:iron_chestplate"
+		},
+		"title": "Haunted Armor",
+		"description": "Haunted Armor rarely spawns underground.\n\nThey drop iron nuggets and enchanted books.",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "choco:custom_spawns",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
