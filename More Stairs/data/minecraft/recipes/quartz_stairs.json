@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"w  ",
+		"ww ",
+		"www"
+	],
+	"key": {
+		"w": {
+			"tag": "chai:quartz"
+		}
+	},
+	"result": {
+		"item": "minecraft:quartz_stairs",
+		"count": 8
+	}
+}

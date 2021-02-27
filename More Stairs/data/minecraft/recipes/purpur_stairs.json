@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"w  ",
+		"ww ",
+		"www"
+	],
+	"key": {
+		"w": {
+			"tag": "chai:purpur"
+		}
+	},
+	"result": {
+		"item": "minecraft:purpur_stairs",
+		"count": 8
+	}
+}
