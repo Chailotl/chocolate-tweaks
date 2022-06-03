@@ -1,3 +1,3 @@
 Craft chainmail armor using iron nuggets.
 
-![Chainmail](https://github.com/VanillaChai/chocolate-tweaks/blob/main/Craftable%20Chainmail%20Armor/Chainmail.png)
+![Chainmail](https://github.com/Chailotl/chocolate-tweaks/blob/master/Craftable%20Chainmail%20Armor/Chainmail.png)

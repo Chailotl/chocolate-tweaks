@@ -1,3 +1,3 @@
 Craft bells.
 
-![Bell](https://github.com/VanillaChai/chocolate-tweaks/blob/main/Craftable%20Bells/Bell.png)
+![Bell](https://github.com/Chailotl/chocolate-tweaks/blob/master/Craftable%20Bells/Bell.png)

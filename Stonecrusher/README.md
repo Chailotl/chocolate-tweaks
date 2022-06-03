@@ -1,3 +1,3 @@
 Use the stonecutter to crush cobblestone into gravel and sand.
 
-![Stonecrusher](https://github.com/VanillaChai/chocolate-tweaks/blob/main/Stonecrusher/Stonecrusher.png)
+![Stonecrusher](https://github.com/Chailotl/chocolate-tweaks/blob/master/Stonecrusher/Stonecrusher.png)

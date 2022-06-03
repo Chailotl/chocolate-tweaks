@@ -1,3 +1,3 @@
 Craft cobwebs.
 
-![Cobweb](https://github.com/VanillaChai/chocolate-tweaks/blob/main/Craftable%20Cobwebs/Cobweb.png)
+![Cobweb](https://github.com/Chailotl/chocolate-tweaks/blob/master/Craftable%20Cobwebs/Cobweb.png)
